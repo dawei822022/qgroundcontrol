@@ -241,3 +241,7 @@ if(NOT QT_MKSPEC MATCHES "winrt")
 endif()
 
 include(QGCDeploy)
+
+
+
+#i am david
